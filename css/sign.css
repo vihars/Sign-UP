@@ -1,6 +1,6 @@
 body
 {
-    background: url('garden.jpg') fixed;
+    background: url('../images/garden.jpg') fixed;
     background-size: cover;
     padding: 0;
     margin: 0;
