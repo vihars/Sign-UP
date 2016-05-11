@@ -1,0 +1,17 @@
+{
+  "name": "sign up",
+  "homepage": "https://github.com/vihars/Sign-UP",
+  "authors": [
+    "Vihar Shah <viharshah02.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
